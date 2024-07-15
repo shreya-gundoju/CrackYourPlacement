@@ -35,15 +35,8 @@ The DSA Sheet contains a curated set of questions frequently asked in product-ba
 
 | Day | Questions Solved | Link to Solutions |
 |----|------------------|-------------------|
-| 1  | 5                | [Day 1 Solutions](./Day01/) |
-| 2  | 5                | [Day 2 Solutions](./Day02/) |
-| ...| ...              | ...               |
-| 45 | 5                | [Day 45 Solutions](./Day45/) |
+| 1  | 2                | [Day 1 Solutions](/) |
 
 
-## How to Use This Repository
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/CrackYourInternship.git
-   cd CrackYourInternship
+
